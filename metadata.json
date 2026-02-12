@@ -1,0 +1,8 @@
+{
+  "name": "VibeFlow: AI-Powered Visual Discovery",
+  "description": "A cutting-edge social discovery platform blending the aesthetic curation of Pinterest with the real-time engagement of Instagram, powered by the Gemini 3 Pro Image (Nano Banana Pro) engine for high-fidelity content creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
